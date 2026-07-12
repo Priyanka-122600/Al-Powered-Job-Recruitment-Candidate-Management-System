@@ -56,14 +56,12 @@ The AI-Powered Job Recruitment & Candidate Management System is a Salesforce-bas
 7. Approval/Rejection notification sent
 8. Candidate hired
 
-## 📷 Project Screenshots
-> Screenshots will be added here.
 
 ## 📖 Documentation
 Complete project documentation is available in the project report.
 
 ## 👩‍💻 Developed By
-**Priyanka**
+**Priyanka Tokala**
 
 Salesforce CRM Project
 AI-Powered Job Recruitment & Candidate Management System
